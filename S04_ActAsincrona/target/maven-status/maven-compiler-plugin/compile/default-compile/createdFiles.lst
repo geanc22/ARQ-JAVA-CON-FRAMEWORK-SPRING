@@ -1,0 +1,8 @@
+com\mycompany\actividad04\S04_ActAsincrona.class
+com\mycompany\actividad04\service\ConductorServiceImpl.class
+com\mycompany\actividad04\entidades\Conductor.class
+com\mycompany\actividad04\AppConfig.class
+com\mycompany\actividad04\daos\AfiliacionDao.class
+com\mycompany\actividad04\service\ConductorService.class
+com\mycompany\actividad04\pruebas\Prueba01.class
+com\mycompany\actividad04\daos\impl\AfiliacionDaoImpl.class
