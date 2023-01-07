@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "8e224d29-83c1-403d-954e-05dd39c24acd",
+		"name": "S12_ActAsincrona",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25227547"
+	},
+	"item": [
+		{
+			"name": "Hola Mundo",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
